@@ -1,0 +1,1 @@
+SELECT * FROM co_workers.people where post='engineer' AND salary= '32000'
